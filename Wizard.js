@@ -136,7 +136,7 @@ global.APIs = {
     'https://api.zeks.xyz': 'apivinz',
   }
   
-
+`
 const runtime = function (seconds) {
 seconds = Number(seconds);
 var d = Math.floor(seconds / (3600 * 24));
